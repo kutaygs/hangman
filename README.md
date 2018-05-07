@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/kutaygs/tulpaner/blob/master/LICENSE) 
 
-# hangman
+# Hangman
 Hangman Game in Python
 
 # Installation
