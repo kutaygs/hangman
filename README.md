@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/kutaygs/tulpaner/blob/master/LICENSE) 
+[![License](https://img.shields.io/codecov/c/github/codecov/example-python.svg?maxAge=2592000)]
 
 # Hangman
 Hangman Game in Python
