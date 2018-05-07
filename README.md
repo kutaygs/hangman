@@ -27,7 +27,7 @@ Download [Python](https://www.python.org/downloads/release/python-2714/)
 
 
 
-3} Double click to tulpaner.py
+3} Double click to hangman.py
 
 kutayyavuz03@hotmail.com
 
