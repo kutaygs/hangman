@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/kutaygs/hangman/blob/master/LICENSE) 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/kutaygs/hangman/blob/master/LICENSE) 
 ![License](https://img.shields.io/codecov/c/github/codecov/example-python.svg?maxAge=2592000)
 ![OS](https://img.shields.io/badge/Tested%20On-Linux%20||%20Windows%20-yellowgreen.svg?style=flat-square)
 
